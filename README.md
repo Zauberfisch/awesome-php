@@ -80,6 +80,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Lithium](http://lithify.me/) - Another framework of components.
 * [Aura PHP](http://auraphp.com/) - A framework of independent components.
 * [Phalcon](http://phalconphp.com/en/) - A framework implemented as a C extension.
+* [SilverStripe Framework](https://github.com/silverstripe/silverstripe-framework) - MVC framework most commonly used in combination with the [SilverStripe CMS](https://github.com/silverstripe/silverstripe-cms)
 
 ## Framework Components
 *PHP framework components.*
@@ -106,6 +107,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *Modern content management systems.*
 
 * [Bolt](https://github.com/bolt/bolt) - A simple CMS built with Silex and Twig.
+* [SilverStripe CMS](https://github.com/silverstripe/silverstripe-cms) - Powerful and user-friendly CMS built on top of the [SilverStripe Framework](https://github.com/silverstripe/silverstripe-framework) 
 
 ## Templating
 *Libraries and tools for templating and lexing.*
